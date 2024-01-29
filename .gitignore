@@ -1,2 +1,30 @@
+<<<<<<< HEAD
 firebase.ts
 app.ts
+=======
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+App.tsx
+>>>>>>> 203be5f2315e53eaf1e8347e5482556d3e926781
